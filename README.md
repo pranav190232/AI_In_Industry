@@ -5,6 +5,7 @@ Link to access my codes - https://drive.google.com/drive/folders/1UNKnvH6LNsNL0L
 This repository contains a collection of projects completed as part of the AI in Industry course. Each project demonstrates practical implementations of key concepts and technologies used in modern AI and industrial applications. Below is a brief overview of the projects included:
 
 Projects Overview:
+
 a) Exclusive Pair Model (Assign-4)
 b) Implementation of the exclusive pair model, showcasing coordination and synchronization in distributed systems.
 c) Line Detection with OpenCV.
@@ -36,4 +37,5 @@ here are the resources to setup your instance:
 2) For mac users - https://youtu.be/tHpH3Uh-H5Y?si=UFxUiyEHouQSPtT3
 3) you can run only on jupyterlab also if you dont want EC-2 - https://medium.com/analytics-vidhya/set-up-jupyter-notebook-on-aws-ec2-instance-1a87d1707467
 4) https://youtu.be/PVXVGAX_QNM?si=Z2CVS2ouOWVq9OOy (windows)
+5)  Anaconda users - https://dataschool.com/data-modeling-101/running-jupyter-notebook-on-an-ec2-server/ 
 
