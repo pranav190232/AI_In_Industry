@@ -7,6 +7,7 @@ This repository contains a collection of projects completed as part of the AI in
 Projects Overview:
 
 a) Exclusive Pair Model (Assign-4)
+
 b) Implementation of the exclusive pair model, showcasing coordination and synchronization in distributed systems.
 c) Line Detection with OpenCV.
 d) A Python-based project using OpenCV to detect and visualize lines in images, demonstrating computer vision techniques.
